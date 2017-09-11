@@ -1,0 +1,33 @@
+body {
+	margin: 0px;
+}
+
+#result {
+	text-align:right;
+	width:240px;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    width:245px;
+}
+
+tr {
+	padding:0px !important; 
+	margin:0px !important;
+}
+
+td {
+	padding:0px !important; 
+	margin:0px !important;
+}
+
+input {
+	height:50px;
+	font-size:15px;
+}
+button{
+	width:100%;
+	height:46px;
+}
