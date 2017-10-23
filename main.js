@@ -16,7 +16,7 @@ app.on('window-all-closed', function() {
 app.on('ready', function() {
 
     // bootChronium
-    mainWindow = new BrowserWindow({width: 250, height: 310});
+    mainWindow = new BrowserWindow({width: 250, height: 308});
     mainWindow.setResizable(false);
     mainWindow.loadURL('file://' + __dirname + '/public/index.html');
     // mainWindow.openDevTools();
